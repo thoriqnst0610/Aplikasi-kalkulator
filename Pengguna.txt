@@ -1,0 +1,3 @@
+-nyalakan xampp
+-buka aplikasi kallulator di browser
+-silahkan di pakai aplikasonya
